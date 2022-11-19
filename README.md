@@ -1,9 +1,18 @@
 # MagicMirror² Module: Quote Catalog
 ##This module needs to changed in pi.
 the MMM- is added to the.
+````bash
 1 - Folder name
+````
+
+````bash
 2 - .js file name
+````
+
+````bash
 3 - inthe .js file name
+````
+
 The `MagicMirror-QuoteCatalog` is a module for [MagicMirror²](https://magicmirror.builders/) that displays quotes taken from a variety of sources - movies, books, and people. Because this module does not use an API, new ones have to be manually added by editing the `random_quotes.js` file and adding/removing quotes.
 
 ![Example](.github/example.png)
